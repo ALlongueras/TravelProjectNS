@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="/img/favicon.png">
+        <title>Travel | Project</title>
+        <!-- Bootstrap core CSS -->
+        <link href="/css/libs/bootstrap/bootstrap.css" rel="stylesheet">
+    </head>
+    <body style="">
+        <div class="container">
+        </div>
+        <script type="text/javascript" src="/scripts/libs/bootstrap/jquery.js"></script>
+        <script type="text/javascript" src="/scripts/libs/bootstrap/bootstrap.min.js"></script>
+    </body>
+    </html>
+</asp:Content>
